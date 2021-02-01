@@ -5,3 +5,6 @@
 
 * Searching for MobileNetV3 (ICCV 2019)
     * [paper Link](https://arxiv.org/abs/1905.02244) / [Summary]
+
+## Computer Vision and Pattern Recognition
+* Rich feature hierarchies for accurate object detection and semantic segmentation
