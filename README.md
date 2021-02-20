@@ -10,3 +10,5 @@
    * [paper Link](https://arxiv.org/abs/1311.2524) / [Summary](https://github.com/mjs1995/ML-DL-Paper-Review/blob/main/Rich%20feature%20hierarchies%20for%20accurate%20object%20detection%20and%20semantic%20segmentation/README.md)
    
 ## Recommendations
+* Deep Neural Networks for YouTube Recommendations
+   *  [paper Link](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf) / [Summary](https://github.com/mjs1995/ML-DL-Paper-Review/blob/main/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations/README.md)
