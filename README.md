@@ -13,6 +13,6 @@
 * Deep Neural Networks for YouTube Recommendations
    *  [paper Link](https://static.googleusercontent.com/media/research.google.com/ko//pubs/archive/45530.pdf) / [Summary](https://github.com/mjs1995/ML-DL-Paper-Review/blob/main/Deep%20Neural%20Networks%20for%20YouTube%20Recommendations/README.md)
 
-## Al
+## Clustering
 * V-Measure: A conditional entropy-based external cluster evaluation measure
-   * [paper Link](https://www.semanticscholar.org/paper/V-Measure%3A-A-Conditional-Entropy-Based-External-Rosenberg-Hirschberg/5421dbcb7e14766eb3d951910ae8d7892d735a01) / [Summary](
+   * [paper Link](https://www.semanticscholar.org/paper/V-Measure%3A-A-Conditional-Entropy-Based-External-Rosenberg-Hirschberg/5421dbcb7e14766eb3d951910ae8d7892d735a01) / [Summary](https://github.com/mjs1995/ML-DL-Paper-Review/tree/main/V-Measure:%20A%20conditional%20entropy-based%20external%20cluster%20evaluation%20measure)
