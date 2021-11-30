@@ -16,6 +16,9 @@
 * An Integrated Perspective of User Evaluating Personalized Recommender Systems : Performance-Driven or User-Centric
    * [paper Link](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01939298) / [Summary](https://github.com/mjs1995/ML-DL-Paper-Review/tree/main/An%20Integrated%20Perspective%20of%20User%20Evaluating%20Personalized%20Recommender%20Systems%20:%20Performance-Driven%20or%20User-Centric)
 
+* A Comprehensive Performance Evaluation in Collaborative Filtering
+   * [paper Link](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06528688) / [Summary](https://github.com/mjs1995/ML-DL-Paper-Review/tree/main/A%20Comprehensive%20Performance%20Evaluation%20in%20Collaborative%20Filtering)
+
 ## Clustering
 * V-Measure: A conditional entropy-based external cluster evaluation measure
    * [paper Link](https://www.semanticscholar.org/paper/V-Measure%3A-A-Conditional-Entropy-Based-External-Rosenberg-Hirschberg/5421dbcb7e14766eb3d951910ae8d7892d735a01) / [Summary](https://github.com/mjs1995/ML-DL-Paper-Review/tree/main/V-Measure:%20A%20conditional%20entropy-based%20external%20cluster%20evaluation%20measure)
